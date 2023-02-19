@@ -1,5 +1,7 @@
 # automotive_TARA_framework
 
+Version 1 for Automotive TARA framework along with a use case of Diagnostic session.
+
 Developed by: 
 
 Qazi Mairaj ud din
@@ -12,32 +14,27 @@ mairajuddin.1@osu.edu
 
 The framework is designed to automate the TARA process for the users as much as possible. The framework complies with all the guidelines of ISO-21434 and UN Reg 155.
 
-Identify assets, their cybersecurity properties and their damage scenarios
+1. Identify assets, their cybersecurity properties and their damage scenarios
 
-Identify Threat Scenario 
+2. Identify Threat Scenario 
 
-Determine the impact rating of damage scenarios
+3. Determine the impact rating of damage scenarios
 
-Identify the attack paths that realize threat scenarios
+4. Identify the attack paths that realize threat scenarios
 
-Determine the ease with which attack paths can be exploited
+5. Determine the ease with which attack paths can be exploited
 
-Determine the risk values of threat scenarios
+6. Determine the risk values of threat scenarios
 
-Select appropriate risk treatment options for threat scenarios
+7. Select appropriate risk treatment options for threat scenarios
 
 Auto_TARA_Framework_ver1.tb7 is developed in the STRIDE based Microsoft Threat Modeling Tool (MSTM) to perform Threat Modeling and Risk Assessment for Vehicular Networks. A case study of Diagnostic Session "Diagnostic Session.tm7" has been evaluated for this type of network. This may be loaded in MSTM and be used as a reference to perform TARA for other vehicular systems.
-
-Version 1 for Automotive TARA framework along with a use case of Diagnostic session.
 
 Basic help on using MSTM may be referred from: https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-getting-started
 
 # How to use the Framework for TARA:
 
-![image](https://user-images.githubusercontent.com/70536971/219961480-b439150e-2e8e-4d03-9483-c8ecdaa0d456.png)
-
-
-The threat modeling is  
+The user needs to design the System of Evaluation using Stencils based on Data Flow Diagrams. Once the design is completed, the framework will perform threat modeling of the system automatically. The user may discard duplicated or non-critical risks. The impact rating, attack feasiblity rating and total risk may be calculated using the information provided in the tabs and be included for final report. The mitigations for each threat are generated automatically.
 
 ![image](https://user-images.githubusercontent.com/70536971/219912512-d34e60ed-83d6-4519-8328-79e21ec87566.png)
 
@@ -79,6 +76,9 @@ The information from attack propogation tab may directly be used to geenrate att
 4. The framework will provide list of approporiate mitigations for each threat automatically as shown below.
 
 ![image](https://user-images.githubusercontent.com/70536971/219961328-fa7ed5e2-3d05-4d3b-96cf-d80b39b18e72.png)
+
+
+The Frameowrk is designed to provide assistance in TARA process for system analysts. The work may further be improved or adopted for other types of networks and cyber-physical systems.
 
 
 
