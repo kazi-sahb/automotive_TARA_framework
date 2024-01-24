@@ -8,7 +8,11 @@ Qazi Mairaj ud din
 
 Centre for Automotive Research
 
-mairajuddin.1@osu.edu
+For any queries please email @ mairajuddin.1@osu.edu
+
+Please feel free to use the framework to generate, analyze or validate TARA system reports.
+
+Please cite the work if you use it for reference.
 
 # About the Framework
 
