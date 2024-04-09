@@ -14,6 +14,17 @@ Please feel free to use the framework to generate, analyze or validate TARA syst
 
 Please cite the work if you use it for reference.
 
+Mairaj ud din, Q. and Ahmed, Q., "Automated TARA Framework for CybersecurityCompliance of Heavy Duty Vehicles," SAE Technical Paper 2024-01-2809, 2024.
+
+BibTex
+@techreport{mairaj2024automated,
+  title={Automated TARA Framework for Cybersecurity Compliance of Heavy Duty Vehicles},
+  author={Mairaj ud din, Q. and Ahmed, Q.},
+  year={2024},
+  number={2024-01-2809},
+  institution={SAE Technical Paper}
+}
+
 # About the Framework
 
 The framework is designed to automate the TARA process for the users as much as possible. The framework complies with all the guidelines of ISO-21434 and UN Reg 155.
