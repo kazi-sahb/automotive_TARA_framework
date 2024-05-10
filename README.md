@@ -1,4 +1,5 @@
 # automotive_TARA_framework
+TARA Tool is currently undergoing the process of Licensing. If interested to get a copy of the tool, please contact the development team for further details. Thank you.
 
 Version 1 for Automotive TARA framework along with a use case of Diagnostic session.
 
